@@ -1,0 +1,5 @@
+C:\Official\VSReferences\UnitTests\Rhino-Mocks-Sample\SimpleRhinoMocksUnitTest\bin\Debug\SimpleRhinoMocksUnitTest.exe.config
+C:\Official\VSReferences\UnitTests\Rhino-Mocks-Sample\SimpleRhinoMocksUnitTest\bin\Debug\SimpleRhinoMocksUnitTest.exe
+C:\Official\VSReferences\UnitTests\Rhino-Mocks-Sample\SimpleRhinoMocksUnitTest\bin\Debug\SimpleRhinoMocksUnitTest.pdb
+C:\Official\VSReferences\UnitTests\Rhino-Mocks-Sample\SimpleRhinoMocksUnitTest\obj\Debug\SimpleRhinoMocksUnitTest.exe
+C:\Official\VSReferences\UnitTests\Rhino-Mocks-Sample\SimpleRhinoMocksUnitTest\obj\Debug\SimpleRhinoMocksUnitTest.pdb

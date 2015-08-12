@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRhinoMocksUnitTest", "SimpleRhinoMocksUnitTest.csproj", "{8EB78718-0C8E-423D-8F98-15295F0DCAE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleUnitTestCases", "..\SampleUnitTestCases\SampleUnitTestCases.csproj", "{B06FD5EC-424D-4FBC-85C8-B65CD1E95032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB78718-0C8E-423D-8F98-15295F0DCAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB78718-0C8E-423D-8F98-15295F0DCAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB78718-0C8E-423D-8F98-15295F0DCAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB78718-0C8E-423D-8F98-15295F0DCAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06FD5EC-424D-4FBC-85C8-B65CD1E95032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06FD5EC-424D-4FBC-85C8-B65CD1E95032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06FD5EC-424D-4FBC-85C8-B65CD1E95032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06FD5EC-424D-4FBC-85C8-B65CD1E95032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
